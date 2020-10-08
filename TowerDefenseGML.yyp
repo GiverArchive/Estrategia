@@ -2,9 +2,12 @@
   "resources": [
     {"id":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"order":0,},
     {"id":{"name":"enemy_0","path":"sprites/enemy_0/enemy_0.yy",},"order":2,},
+    {"id":{"name":"spr_tower0","path":"sprites/spr_tower0/spr_tower0.yy",},"order":3,},
+    {"id":{"name":"obj_tower0","path":"objects/obj_tower0/obj_tower0.yy",},"order":2,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":1,},
     {"id":{"name":"spt_grass","path":"sprites/spt_grass/spt_grass.yy",},"order":0,},
     {"id":{"name":"path_comum","path":"paths/path_comum/path_comum.yy",},"order":0,},
+    {"id":{"name":"inventory","path":"objects/inventory/inventory.yy",},"order":3,},
     {"id":{"name":"spr_path","path":"sprites/spr_path/spr_path.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
