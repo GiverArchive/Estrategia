@@ -1,6 +1,8 @@
 {
   "resources": [
     {"id":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"order":0,},
+    {"id":{"name":"enemy_0","path":"sprites/enemy_0/enemy_0.yy",},"order":2,},
+    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":1,},
     {"id":{"name":"spt_grass","path":"sprites/spt_grass/spt_grass.yy",},"order":0,},
     {"id":{"name":"path_comum","path":"paths/path_comum/path_comum.yy",},"order":0,},
     {"id":{"name":"spr_path","path":"sprites/spr_path/spr_path.yy",},"order":1,},
